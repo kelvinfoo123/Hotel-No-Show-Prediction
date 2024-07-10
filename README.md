@@ -1,2 +1,4 @@
 # Hotel-No-Show-Prediction
-Building a classifier model to predict when reservations will lead to a no-show cancellation.
+Objective: Build a machine learning model to predict when reservations will lead to a no-show cancellation. 
+
+#### **Workflow**
